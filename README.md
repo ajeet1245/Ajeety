@@ -2,6 +2,10 @@
 IT- System Administrtor
 
 Network Engineer
+
+Website Developer 
+Mobile app  Developer
+
 ## Technical Skills 
 1.• Tolling System Hardware Installation and Application.
 

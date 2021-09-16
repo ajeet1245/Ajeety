@@ -10,6 +10,6 @@
 ### Technical Qualification
 1.Advance Diploma in Computer Application (ADCA) of 1 Year
 
-2.2 year diploma in Computer Hardware & Networking (MCITP) from CRS institute
+2. 2 year diploma in Computer Hardware & Networking (MCITP)
 
 3.python

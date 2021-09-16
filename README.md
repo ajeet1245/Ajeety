@@ -1,5 +1,7 @@
 # My project
+IT- System Administrtor
 
+Network Engineer
 ## Technical Skills 
 1.• Tolling System Hardware Installation and Application.
 
